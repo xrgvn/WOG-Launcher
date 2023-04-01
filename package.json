@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "xrgvn",
-    "url": "http://http://68.183.123.238/",
+    "url": "http://68.183.123.238/",
     "engines": {
         "node": "^18.x.x"
     },
